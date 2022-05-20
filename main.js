@@ -5,7 +5,7 @@ greencar_width=75;
 greencarheight=100;
 
 background_image = "parkingLot.jpg";
-greencar_image = "car2.png";
+greencar_image ="fercar.png";
 
 greencarx=5;
 greencary=225;
